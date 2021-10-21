@@ -1,0 +1,2 @@
+# js-add-nodebugger-webpack-plugin
+webpack打包是自动给js文件中加入控制台检测并进行重定向及innerhtml内容替换
