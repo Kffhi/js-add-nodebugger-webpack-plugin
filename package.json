@@ -1,0 +1,19 @@
+{
+    "name": "js-add-nodebugger-webpack-plugin",
+    "version": "1.0.1",
+    "description": "webpack打包时自动给js文件中加入控制台检测并进行重定向及innerHTML内容替换",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kffhi/js-add-nodebugger-webpack-plugin.git"
+    },
+    "author": "kffhi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kffhi/js-add-nodebugger-webpack-plugin/issues"
+    },
+    "homepage": "https://github.com/Kffhi/js-add-nodebugger-webpack-plugin#readme"
+}
